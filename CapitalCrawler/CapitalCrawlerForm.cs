@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapitalCrawler
 {
-    public partial class Form1 : Form
+    public partial class CapitalCrawlerForm : Form
     {
-        public Form1()
+        public CapitalCrawlerForm()
         {
             InitializeComponent();
         }
